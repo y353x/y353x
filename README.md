@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on TV broadcasting company
+- 🌱 I’m a radio engineer with high education
+- ⚡ My stack:
+  ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 <!--
 **y353x/y353x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
